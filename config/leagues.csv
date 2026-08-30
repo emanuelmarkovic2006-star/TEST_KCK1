@@ -1,0 +1,20 @@
+league_id,fd_code,name,country,tier
+premier_league,E0,Premier League,England,1
+championship,E1,Championship,England,2
+la_liga,SP1,La Liga,Spain,1
+segunda,SP2,Segunda Division,Spain,2
+bundesliga,D1,Bundesliga,Germany,1
+bundesliga2,D2,2. Bundesliga,Germany,2
+serie_a,I1,Serie A,Italy,1
+serie_b,I2,Serie B,Italy,2
+ligue_1,F1,Ligue 1,France,1
+ligue_2,F2,Ligue 2,France,2
+eredivisie,N1,Eredivisie,Netherlands,1
+jupiler_pro,B1,Jupiler Pro League,Belgium,1
+primeira_liga,P1,Primeira Liga,Portugal,1
+super_lig,T1,Super Lig,Turkey,1
+super_league_gr,G1,Super League,Greece,1
+scottish_prem,SC0,Scottish Premiership,Scotland,1
+scottish_champ,SC1,Scottish Championship,Scotland,2
+scottish_l1,SC2,Scottish League One,Scotland,3
+scottish_l2,SC3,Scottish League Two,Scotland,4
